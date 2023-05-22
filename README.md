@@ -15,4 +15,5 @@ Make sure to run it on google colab to get similar results.
 Make sure to download the dataset 'AAPD' and upload to your google drive, edit the data_got.py file according to your google drive file system. 
 Make sure to upload all the other required files when running the main file.
 Don't forget to install the packages and connect to your google drive when running the notebook. 
+Kindly please note that the last cell will provide the results so don't forget to run the last cell in the Google colab notebook to get the results. 
 
